@@ -1,0 +1,4 @@
+** TODO Measure if we need to update latest directory, or if we can just use the digits on the filename and spread new files over many directories
+
+Is btrfs faster if we put new files into just 'latest directory' instead of spreading writes out over many directories?
+Need a long measurement over like half an hour or more, to give it many chances to sync
